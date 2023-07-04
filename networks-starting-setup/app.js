@@ -66,7 +66,7 @@ app.get('/people', async (req, res) => {
     res.status(500).json({ message: 'Something went wrong.' });
   }
 });
-
+//mongooooose gletsgo
 mongoose.connect(
   'mongodb://localhost:27017/swfavorites',
   { useNewUrlParser: true },
@@ -77,4 +77,4 @@ mongoose.connect(
       app.listen(3000);
     }
   }
-);
+); 
