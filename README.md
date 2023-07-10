@@ -1,3 +1,2 @@
 # DockerKube
-# sunwupark~~ goood
-# another goood things goingn on
+# Listening to the Udemy Lectures and creating new project everytime
