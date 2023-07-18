@@ -1,2 +1,2 @@
 # DockerKube
-# Listening to the Udemy Lectures and creating new project everytime
+# Listening to the Udemy Lectures and creating new project everytime~
